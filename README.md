@@ -17,7 +17,14 @@ Senior-level: >$130k
 Average salary: $126k
 
 JOB DESCRIPTION:
+A Software Engineer is someone who is responsible for the designing, developing, and maintinence of software applications 
+ensuring user satisfaction and meeting their needs. Software Engineering is a role crucial software development and maintinence requiring 
+technical skills, creativity, and collaboration.
 
-
+DAY-TO-DAY RESPONSIBILITIES:
+-Problem-solving: Software Engineers are often tasked with finding creative ways to work around bugs and other problems that may arise during or after development
+-Debugging and Testing: Software Engineers are constantly working to identify and fix bugs because it is such a crucial part of the job.
+-Coding and Development: A large portion of a software engineer's day is spent writing and refining code, which involves using multiple programming languages and frameworks in order to meet user needs.
+-Collaboration: Software Engineers often work in teams and collaborate with other professionals, daily stand-up meetings ensure progress is being made and everyone is focused on the same goal.
 
 
